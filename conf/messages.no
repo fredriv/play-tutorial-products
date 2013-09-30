@@ -1,0 +1,6 @@
+name = Navn
+description = Beskrivelse
+
+application.name = Produktkatalog
+
+products.details = Produkt: {0}

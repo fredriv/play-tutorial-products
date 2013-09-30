@@ -1,0 +1,17 @@
+ean = EAN
+name = Name
+description = Description
+
+application.name = Product catalog
+
+products.details = Product: {0}
+products.list.navigation = Product list
+
+products.form = Product details
+products.new = (new)
+products.new.command = New
+products.new.submit = Add
+products.new.success = Successfully added product {0}.
+
+validation.errors = Please correct the errors in the form.
+validation.ean.duplicate = A product with this EAN code already exists.
